@@ -15,7 +15,7 @@ i currently working on it and ANI with " HONDA".
 
 ## EDUCATION
     | ACADEMIC YEAR | STANDERED | SCHOOL NAME                          |
-    |---------------|-----------|------------|-------------------------
+    |---------------|-----------|--------------------------------------|
     | 2019          |  10TH     | Govt. Higher secondary school malhar |  
     | 2021          | 12TH      | Govt. Higher secondary school malhar |
     | 2022          | 1ST YEAR  | IIT GOA                              |
