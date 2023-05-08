@@ -31,7 +31,7 @@ i currently working on it and ANI with " HONDA".
 - **CS102-SOFTWERE TOOL** : *CLINT PGEORGE*
 
 ### HOBBIS $ INETEREST 
-i like to -.
+i like to -:
 - plya vollyball , cricket , basket ball
 - coding , cybersecurity 
 - dancing 
