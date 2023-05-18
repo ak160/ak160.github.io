@@ -1,7 +1,7 @@
 # ADITYA KANT
 
 ## ABOUT ME
-![ ADITYA KANT ](https://c8.alamy.com/comp/TC2FPE/young-man-avatar-cartoon-character-profile-picture-TC2FPE.jpg)
+![ ADITYA KANT ](https://www.themarysue.com/wp-content/uploads/2023/03/Tanjiro-Demon-Slayer.jpg?w=1200&resize=1200%2C675)
     
 
 
@@ -14,13 +14,30 @@ i handed a project "microprocessor " by clint pgeaorge.
 i currently working on it and ANI with " HONDA".
 
 ## EDUCATION
-    | ACADEMIC YEAR | STANDERED | SCHOOL NAME                          |
-    |---------------|-----------|--------------------------------------|
-    | 2019          |  10TH     | Govt. Higher secondary school malhar |  
-    | 2021          | 12TH      | Govt. Higher secondary school malhar |
-    | 2022          | 1ST YEAR  | IIT GOA                              |
-    
-    
+<table style="width: 75%;padding:2px;"border=1>
+        <thead>
+            <th>ACADEMIC YEAR</th>
+            <th>STANDERED</th>
+            <th>SCHOOL NAME</th>
+        </thead>
+        <tbody>
+            <tr>
+                <td>2022</td>
+                <td>BTech 1<sup>st</sup>Year</td>
+                <td>IIT GOA</td>
+            </tr>
+            <tr>
+                <td>2020-2021</td>
+                <td>11<sup>th</sup><i>&</i>12 <sup>th</sup></td>
+                <td>GHSSM (C.G)</td>
+            </tr>
+            <tr>
+                <td>2019</td>
+                <td>10<sup>th</sup></td>
+                <td>GHSSM (C.G)</td>
+            </tr>
+        </tbody>
+    </table>
 ### COURSE@IITGOA
 
 #### SPRING SEMESTER:
